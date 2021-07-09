@@ -1,8 +1,8 @@
 <h2 align="left">
  <abc>
   <br>Hola <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> I'm Siv Ram Shastri :blush:<br>
-  <br> Full Stack Web Developer at KonfHub Technologies :computer:<br>
+  <br> I'm Gustavo Zapata :blush:<br>
+  <br> Front-end Web Devolepr - Diseño UX/IX :computer:<br>
   <br>
  </abc>
 </h2> 
