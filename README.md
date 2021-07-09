@@ -1,11 +1,25 @@
-<h2 align="left">
- <abc>
-  <br>Hola <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> I'm Gustavo Zapata :blush:<br>
-  <br> Front-end Web Devolepr - Diseño UX/IX :computer:<br>
-  <br>
- </abc>
-</h2> 
+### Hi there 👋 , I'm [Srihari Kapu](https://www.github.com/sriharikapu) <p  align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=sriharikapu" alt="visitor badge"/></p>
+
+<!--
+**sriharikapu/sriharikapu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+![Srihari Kapu](https://github.com/sriharikapu/sriharikapu/blob/master/CO.png?raw=true)
+
+
+I'm fun to work with, I always like to learn new things from others as much as helping others solve their problems. You know what else is fun! Learning code is. Let's work for a better opensource, decentralized future. A world where everything is free and everyone is free to experiment, learn, survive and thrive. Let's code for good.
+
+<br/>
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
